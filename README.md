@@ -1,4 +1,4 @@
-<h2 align="left">👋 Welcome to my GitHub! I code, break stuff, and occasionally fix it. Commit messages? Pure art. 😏</h2>
+<h2 align="left">👋 Welcome to my GitHub!! I code, break stuff, and occasionally fix it. Commit messages? Pure art. 😏</h2>
 
 ###
 
